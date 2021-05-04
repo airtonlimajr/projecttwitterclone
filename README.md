@@ -1,4 +1,4 @@
-# Twitter clone
+# TWITTER CLONE
 
 Este projeto foi desenvolvido para a Rockseat,e é um clone da minha página do twitter, criado a partir do HTML5 e CSS3, usando as propriedades do FLEXBOX. 
 <b>Atenção:</b> Projeto conceito.
